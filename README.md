@@ -2,9 +2,9 @@
 
 Code for the provisioning service hosted at http://provisioning.sharepointpnp.com. 
 
-All the **SharePoint Look Book templates** hosted from this service are also open-sourced and are available from seperate [repository](https://github.com/SharePoint/sp-dev-provisioning-templates), which is the content source for the release information.
+All the **SharePoint Look Book templates** hosted from this service are also open-sourced and are available from a seperate [repository](https://github.com/SharePoint/sp-dev-provisioning-templates), which is the content source for the release information.
 
-> Please be aware that **documentation work is still in progress** and we will keep on provide more guidance and input around covered capabilities in this solution. In the meantime, please submit issues and questions using the [issues list](../../issues) to help us provide better documentation and guidance. Thanks for your patience!
+> Please be aware that **documentation work is still in progress** and we will keep providing more guidance and input around covered capabilities in this solution. In the meantime, please submit issues and questions using the [issues list](../../issues) to help us provide better documentation and guidance. Thanks for your patience!
 
 ![PnP Provisioning Service Front Page](./assets/frontpage.png)
 
